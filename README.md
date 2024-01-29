@@ -11,10 +11,7 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ### Pre-requisitos 📋
 Como requisitos, tener instalado flutter, el emulador de el móvil.
-
-```
-Da un ejemplo
-```
+Android Studio Code.
 
 ### Instalación y Despliegue 🔧 📦
 
