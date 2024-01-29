@@ -1,16 +1,57 @@
-# fl_components
+# Componentes de Flutter 
 
-A new Flutter project.
+Esta app consta de usar todos los Componentes de Flutter, card_screens, imagenes, logos, listas, card_screens y rutas.
 
-## Getting Started
+![Logo ](https://cdn-images-1.medium.com/max/300/1*5-aoK8IBmXve5whBQM90GA.png)
 
-This project is a starting point for a Flutter application.
+## Comenzando 🚀
 
-A few resources to get you started if this is your first Flutter project:
+Mira **Deployment** para conocer como desplegar el proyecto.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Pre-requisitos 📋
+Como requisitos, tener instalado flutter, el emulador de el móvil.
+Android Studio Code.
+
+### Instalación y Despliegue 🔧 📦
+
+Para ello hacer un git clone y la url del proyecto
+
+_Git clone_
+
+```
+git clone https://github.com/rafael2347/Flutter_Componets.git
+```
+
+_Puedes descargar el proyecto a  mano_
+
+```
+Code<>,  y luego a download zip
+```
+
+_Para finalizar para instalar las dependencias de flutter y podamos correr el programa ponemos lo siguiente_
+
+```
+flutter pub get
+```
+
+
+
+## Construido con 🛠️
+
+* [Flutter](https://docs.flutter.dev/) - El framework web usado
+* Versión de Flutter 1.0.0+1
+## Wiki 📖
+
+Puedes encontrar mucho más de cómo utilizar este proyecto en la documentación de flutter [https://docs.flutter.dev/]
+
+## Autores ✒️
+
+- [@rafael2347](https://github.com/rafael2347)
+
+## Licencia 📄
+
+Este proyecto está bajo Licencia (License) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+
+---
+⌨️ si puedes soñarlo, puedes programarlo 😊
