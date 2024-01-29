@@ -41,11 +41,6 @@ flutter pub get
 
 * [Flutter](https://docs.flutter.dev/) - El framework web usado
 * Versión de Flutter 1.0.0+1
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
 ## Wiki 📖
 
 Puedes encontrar mucho más de cómo utilizar este proyecto en la documentación de flutter [https://docs.flutter.dev/]
