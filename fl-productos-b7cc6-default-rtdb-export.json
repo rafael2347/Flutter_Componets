@@ -1,0 +1,16 @@
+{
+  "productos": {
+    "PROD0001": {
+      "disponible": true,
+      "imagen": "https://img.pccomponentes.com/articles/5/52021/22.jpg",
+      "nombre": "HDD WD 1TB",
+      "precio": 89.99
+    },
+    "PROD002": {
+      "disponible": true,
+      "imagen": "https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/0718037856780_1.jpg",
+      "nombre": "nvidia",
+      "precio": 50
+    }
+  }
+}

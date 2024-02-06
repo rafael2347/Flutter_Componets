@@ -16,7 +16,7 @@ class _SliderScreenState extends State<SliderScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Hola'), // Corregido el uso de Title
+        title: Text('Sliders Screen'), // Corregido el uso de Title
       ),
       body: Column(
         children: [
